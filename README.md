@@ -13,8 +13,8 @@ Setelah submit, japri saya untuk atur jadwal demo (online/offline)
 Demo paling akhir tanggal 18 Des. jam 21:00 WITA
 
 Kelompok 7:
-- Evan Samuel Yauri
-- Muh Farhan Rizki
-- Muhammad Haekal Hilmi
+- Evan Samuel Yauri (D121221028)
+- Muh Farhan Rizki (D121221033)
+- Muhammad Haekal Hilmi (D121221099)
 
 
