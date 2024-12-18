@@ -121,9 +121,8 @@ svg {
   text-decoration: none;
   color: #ffff;
 }
-#auth-links:nth-child(1) {
-  /* filter: hue-rotate(270deg); */
-}
+
+
 #auth-links:nth-child(2) {
   filter: hue-rotate(110deg);
 }
